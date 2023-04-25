@@ -4,9 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Game+Developer+/+Programmer&font=Fira&color=3971c3&pause=1000&size=22">
 
 <p align="left">
-  I'm a Game Developer located in England. I have a passion for programming and making things a reality.
-  Well-organised, problem solver, great teamwork & communication skills, fan of martial arts & video games.
-  Interested in everything programming and working on projects with positive people!
+ I'm a Game Developer located in England. I like to make whacky 2D games on unity. fan of football, wwe & video games. Always willing to have a good time with people for projects.
   <br>
   <br>
   <div align="center">
