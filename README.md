@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Game+Developer+/+Programmer&font=Fira&color=3971c3&pause=1000&size=22">
 
 <p align="left">
- I'm a Game Developer located in England. I like to make whacky 2D games on unity. fan of football, wwe & video games. Always willing to have a good time with people for projects.
+ I'm a Game Developer located in England. I like to make whacky 2D games on unity. Fan of Football, WWE & Video Games. Always willing to have a good time with people for projects.
   <br>
   <br>
   <div align="center">
