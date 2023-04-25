@@ -61,16 +61,16 @@
    <summary><h2>📊 GitHub Stats and Activity</h2></summary>
 
    <h3>🔥 Streak Stats</h3>
-   <img alt="Bailey's streak" src="https://streak-stats.demolab.com?user=BiscuitTinx&background=20232A&ring=61DAFB&fire=61DAFB&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&stroke=FFFFFF&border=FFFFFF)](https://git.io/streak-stats">
+   <img alt="Bailey's streak" src="https://streak-stats.demolab.com?user=BiscuitTinx&background=20232A&ring=3971c3&fire=3971c3&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&stroke=FFFFFF&border=FFFFFF)](https://git.io/streak-stats">
 
    <h3>💻 GitHub Profile Stats</h3>
-   <img alt="Bailey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BiscuitTinx&show_icons=true&theme=react" height="192px">
-   <img alt="Bailey's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiscuitTinx&layout=compact&langs_count=8&theme=react" height="192px">
+   <img alt="Bailey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BiscuitTinx&show_icons=true&bg_color=20232A&text_color=ffffff&title_color=3971c3&icon_color=3971c3" height="192px">
+   <img alt="Bailey's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiscuitTinx&layout=compact&langs_count=8&bg_color=20232A&text_color=ffffff&title_color=3971c3&icon_color=3971c3" height="192px">
    <br/>
 
    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-   <img alt="Dan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=BiscuitTinx&theme=react">
+   <img alt="Dan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=BiscuitTinx&bg_color=20232A&color=FFFFFF&line=3971c3&point=3971c3">
 
    <h3>⚡ Recent GitHub Activity</h3>
    
