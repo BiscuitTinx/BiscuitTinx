@@ -75,11 +75,11 @@
    <h3>⚡ Recent GitHub Activity</h3>
    
    <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 26th, 2023, 1:43:10 AM (GMT)
+Last Updated: Wednesday, April 26th, 2023, 1:15:40 PM (GMT)
    <!--RECENT_ACTIVITY:last_update_end-->
    <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [BiscuitTinx/BiscuitTinx](https://github.com/BiscuitTinx/BiscuitTinx)<br>
-2. ⬆️ Pushed 1 commit(s) to [BiscuitTinx/BiscuitTinx](https://github.com/BiscuitTinx/BiscuitTinx)<br>
+1. ⬆️ Pushed 2 commit(s) to [BiscuitTinx/BiscuitTinx](https://github.com/BiscuitTinx/BiscuitTinx)<br>
+2. 🎉 Merged PR [#1](https://github.com/BiscuitTinx/BiscuitTinx/pull/1) in [BiscuitTinx/BiscuitTinx](https://github.com/BiscuitTinx/BiscuitTinx)<br>
 3. ⬆️ Pushed 1 commit(s) to [BiscuitTinx/BiscuitTinx](https://github.com/BiscuitTinx/BiscuitTinx)<br>
 4. ⬆️ Pushed 1 commit(s) to [BiscuitTinx/BiscuitTinx](https://github.com/BiscuitTinx/BiscuitTinx)<br>
 5. ⬆️ Pushed 1 commit(s) to [BiscuitTinx/BiscuitTinx](https://github.com/BiscuitTinx/BiscuitTinx)<br>
