@@ -8,7 +8,7 @@
   <br>
   <br>
   <div align="center">
-    <a href="https://baileyshelleyking.wixsite.com/portfolio" target="_blank" rel="noreferrer">
+    <a href="https://baileyshelleyking.wixsite.com/myportfolio" target="_blank" rel="noreferrer">
       <img alt="website" title="View my Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-3971C3?style=for-the-badge&logo=dan-dev&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/bailey-shelley-king-919b321bb/" target="_blank" rel="noreferrer">
