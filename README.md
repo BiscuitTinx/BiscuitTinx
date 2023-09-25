@@ -1,5 +1,5 @@
 <!-- Begin First Section --->
-# 💻 Bailey R Shelley-King
+# 💻 Bailey Shelley-King
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Game+Developer+/+Programmer&font=Fira&color=3971c3&pause=1000&size=22">
 
