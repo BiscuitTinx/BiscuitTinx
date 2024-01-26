@@ -75,14 +75,14 @@
    <h3>⚡ Recent GitHub Activity</h3>
    
    <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 25th, 2024, 1:16:32 PM (GMT)
+Last Updated: Friday, January 26th, 2024, 1:39:18 AM (GMT)
    <!--RECENT_ACTIVITY:last_update_end-->
    <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
-2. ⬆️ Pushed 1 commit(s) to [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
-3. ⬆️ Pushed 1 commit(s) to [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
-4. ⬆️ Pushed 5 commit(s) to [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
-5. 🎉 Merged PR [#3](https://github.com/DanDHenshaw/Group-6/pull/3) in [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
+1. ⬆️ Pushed 4 commit(s) to [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
+2. 🎉 Merged PR [#5](https://github.com/DanDHenshaw/Group-6/pull/5) in [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
+3. 👍 Approved [#5](https://github.com/DanDHenshaw/Group-6/pull/5#pullrequestreview-1844390580) in [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
+4. 💬 Commented on [#5](https://github.com/DanDHenshaw/Group-6/pull/5#issuecomment-1910763075) in [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
+5. 💪 Opened PR [#4](https://github.com/DanDHenshaw/Group-6/pull/4) in [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
    <!--RECENT_ACTIVITY:end-->
 
 </details>
