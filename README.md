@@ -75,14 +75,14 @@
    <h3>⚡ Recent GitHub Activity</h3>
    
    <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 2nd, 2024, 1:14:35 PM (GMT)
+Last Updated: Saturday, February 3rd, 2024, 1:38:33 AM (GMT)
    <!--RECENT_ACTIVITY:last_update_end-->
    <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
-2. 🎉 Merged PR [#7](https://github.com/DanDHenshaw/Group-6/pull/7) in [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
-3. 👍 Approved [#7](https://github.com/DanDHenshaw/Group-6/pull/7#pullrequestreview-1845771956) in [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
-4. ⬆️ Pushed 1 commit(s) to [BiscuitTinx/BiscuitTinx](https://github.com/BiscuitTinx/BiscuitTinx)<br>
-5. ⬆️ Pushed 4 commit(s) to [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
+1. 👍 Approved [#13](https://github.com/DanDHenshaw/Group-6/pull/13#pullrequestreview-1859344461) in [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
+2. 👍 Approved [#12](https://github.com/DanDHenshaw/Group-6/pull/12#pullrequestreview-1859301379) in [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
+3. ⬆️ Pushed 3 commit(s) to [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
+4. 🎉 Merged PR [#11](https://github.com/DanDHenshaw/Group-6/pull/11) in [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
+5. 👍 Approved [#11](https://github.com/DanDHenshaw/Group-6/pull/11#pullrequestreview-1859204579) in [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
    <!--RECENT_ACTIVITY:end-->
 
 </details>
