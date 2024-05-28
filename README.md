@@ -75,12 +75,9 @@
    <h3>⚡ Recent GitHub Activity</h3>
    
    <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 28th, 2024, 1:42:16 AM (GMT)
+Last Updated: Tuesday, May 28th, 2024, 1:16:58 PM (GMT)
    <!--RECENT_ACTIVITY:last_update_end-->
    <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
-2. 💪 Opened PR [#35](https://github.com/DanDHenshaw/Group-6/pull/35) in [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
-3. ⬆️ Pushed 1 commit(s) to [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
    <!--RECENT_ACTIVITY:end-->
 
 </details>
